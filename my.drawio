@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T01:06:18.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="uV1YS-O-e8I0P2qZDyQU" version="15.8.7" type="github"><diagram id="rTiVK4EpuTf02A9JKrwi" name="Page-1">7VlNc5swEP01zLSHZBAgiI+J7bSZSTNt05k0vSkgg1JArpBjO7++AhZjVTF108Tk62JrF61Y7e57C8Jyh9nigyDT5BOPaGo5drSw3JHlOMj2HPVXapa1xg+8WhELFsGkVnHObmljCdoZi2ihTZScp5JNdWXI85yGUtMRIfhcnzbhqX7XKYmpoTgPSWpqL1gkk1p7gO1W/5GyOGnujGy4kpFmMiiKhER8vqZyx5Y7FJzLepQthjQtg9fEpbY73nB15ZigudzG4AeJnYuMXY8msfvl5OuvzD1je5CMQi6bDdNI7R9ELmTCY56TdNxqjwSf5REtV7WV1M455XyqlEgpr6mUS0gmmUmuVInMUriqHBbL76X9Pm7ES1iuEkYLTVqCVPtaOrgxBKAq+EyEtGPfUJWSiJjKjnnuKlGqwinPqPJH2QmaEsludD8IlFq8mtdmQw0gIf+QHHDyhqQzuFOhHJZGytqElNGdJ0zS8ymp9j9XqNSDD2tSIemiO4zmtsHA9XFtAphGPpT4vEUIaso+WUNHM+/BI9WwxaurY3fLOh70WcfINQr5UnH6XRk7JVeqgWhRJimLczUOVXCoUIqydpli6EO4kLEoqhNKC3ZLrqr1yjhPOctltRl8ZOFRV/FD+wDjlrTXc9JReRuhsmfvB8HA0eAC0taxh8U/l7tZm8Ink4JKIzkrH/4jX84bmjrRhHtFk2eg6Yy/EDA5fwMTevLgMbnuMFPySfksq5yIqwfYqlfm1vjYOhpag2Ozoyc8u5oVu+nm2NXoyXXu6OYeNrv5waN1c/xK+QdvyT9+r/zjv1z+2UDsLf9g5OloQU+dj9DBG5g6wYSCPtGEt2wXKS/o0+wXHu67Xziv9e3P37LEe61ws118Iz9pWdI0JqU1CSXjueWo5e130BgqIeQiKsc2r35kQsV7s/S1PO7k8GNfP/7w7b6PPwIjxDSPOiLVzzFRcNeD5W6PiZARlF0SBdJoomWNDURBF0yu8YuSLptF1Lg1KoVHIJfBcyCXwSZyOQRSqbvnhXrZ6ps4VuUPcMBe73AY9AKHe5T1fSH0gHBAwXPAAzJbwZ+AyLnUHir7xgUOdocLJbYf3Oo3rPazpTv+DQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-30T01:06:29.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="OdC69itmQ6T31JehALjA" version="15.8.7" type="github">
+  <diagram id="rTiVK4EpuTf02A9JKrwi" name="Page-1">
+    <mxGraphModel dx="1042" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Zag2WmijDfg3QIRqm3Ni-2" target="Zag2WmijDfg3QIRqm3Ni-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-2" value="start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Zag2WmijDfg3QIRqm3Ni-3" target="Zag2WmijDfg3QIRqm3Ni-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-13" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Zag2WmijDfg3QIRqm3Ni-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.7792" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Zag2WmijDfg3QIRqm3Ni-3" target="Zag2WmijDfg3QIRqm3Ni-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-14" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Zag2WmijDfg3QIRqm3Ni-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-3" value="Am I going to win？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="353" y="320" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Zag2WmijDfg3QIRqm3Ni-5" target="Zag2WmijDfg3QIRqm3Ni-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Zag2WmijDfg3QIRqm3Ni-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.5143" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Zag2WmijDfg3QIRqm3Ni-5" target="Zag2WmijDfg3QIRqm3Ni-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-5" value="Am I going to lose？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="353" y="450" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Zag2WmijDfg3QIRqm3Ni-6" target="Zag2WmijDfg3QIRqm3Ni-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-6" value="Take legal action, (center, corder or other)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365.5" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-7" value="end" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Zag2WmijDfg3QIRqm3Ni-9" target="Zag2WmijDfg3QIRqm3Ni-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-9" value="Take Action to Win" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zag2WmijDfg3QIRqm3Ni-17" target="Zag2WmijDfg3QIRqm3Ni-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zag2WmijDfg3QIRqm3Ni-17" value="Take Action not to lose" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
